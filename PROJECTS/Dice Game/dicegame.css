@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(116, 115, 115);
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+    font-family: cursive;
+}
+h1 {
+    color: rgb(0, 255, 179);
+    margin-top: 30px;
+    font-size: 90px;
+}
+p{
+    color: rgb(0, 255, 179);
+    font-size: 30px;
+}
+img{
+    padding: 40px;
+    width: 170px;
+    height: 170px;
+}
